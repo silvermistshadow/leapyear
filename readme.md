@@ -1,12 +1,19 @@
-# _{Application Name}_
+# _Leap Year Calculator_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Calculates leap year, 4-15-2019_
 
-#### By _**{List of contributors}**_
+#### By _**BM**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Takes input from the user and calculates if the year is a leap year._
+
+| Behavior                             | Input         | Output |
+| ------------------------------------ | ------------- | ------------- |
+| a year that is NOT a leap year       | Content Cell  | Content Cell  |
+| A year that is divisible by 4        | Content Cell  | Content Cell  |
+| A year that is divisible by 100      | Content Cell  | Content Cell  |
+| CA year that is divisible by 400     | Content Cell  | Content Cell  |
 
 ## Setup/Installation Requirements
 
