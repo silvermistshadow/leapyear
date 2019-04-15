@@ -8,12 +8,12 @@
 
 _Takes input from the user and calculates if the year is a leap year._
 
-| Behavior                             | Input         | Output |
+| Behavior                             | Input         | Output        |
 | ------------------------------------ | ------------- | ------------- |
-| a year that is NOT a leap year       | Content Cell  | Content Cell  |
-| A year that is divisible by 4        | Content Cell  | Content Cell  |
-| A year that is divisible by 100      | Content Cell  | Content Cell  |
-| CA year that is divisible by 400     | Content Cell  | Content Cell  |
+| a year that is NOT a leap year       | 1993          | false         |
+| a year that is divisible by 4        | 2004          | true          |
+| a year that is divisible by 100      | 1900          | false         |
+| a year that is divisible by 400      | 2000          | true          |
 
 ## Setup/Installation Requirements
 
